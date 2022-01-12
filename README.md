@@ -3,10 +3,10 @@
 
 # Features
 
-Mintable
-Burnable
-Supply Tracking
-Pausable
-access control(Roles)
-upgradeability(UUPS)
+- Mintable
+- Burnable
+- Supply Tracking
+- Pausable
+- access control(Roles)
+- upgradeability(UUPS)
 
